@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "version": "3.5.0",
+  "published_at": "2026-09-18T18:45:00Z",
+  "release_notes": "Manifest di test per validare il canale di aggiornamento Retail Insight.",
+  "minimum_supported_version": "3.0.0",
+  "package": {
+    "type": "windows-installer",
+    "filename": "RetailInsight-3.5.0-Setup.exe",
+    "url": "https://example.invalid/RetailInsight-3.5.0-Setup.exe",
+    "size_bytes": 123456,
+    "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+  }
+}
