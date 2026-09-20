@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "version": "3.0.0",
-  "published_at": "2026-09-19T12:48:00Z",
-  "release_notes": "Retail Insight 3.0.0 - baseline stabile per la validazione del sistema di aggiornamento.",
-  "release_page_url": "https://github.com/grispo89-bit/retail-insight-releases/releases/tag/updater-baseline-3.0.0",
+  "version": "3.0.1",
+  "published_at": "2026-09-20T06:42:00Z",
+  "release_notes": "Aggiornamento tecnico 3.0.1 per la validazione end-to-end del sistema di aggiornamento di Retail Insight.",
+  "release_page_url": "https://github.com/grispo89-bit/retail-insight-releases/releases/tag/updater-e2e-3.0.1-20260920",
   "minimum_supported_version": "3.0.0",
   "package": {
     "type": "windows-installer",
-    "filename": "RetailInsight-3.0.0-Setup.exe",
-    "url": "https://github.com/grispo89-bit/retail-insight-releases/releases/download/updater-baseline-3.0.0/RetailInsight-3.0.0-Setup.exe",
-    "size_bytes": 215784823,
-    "sha256": "eea41ff85d9252a2bcf512cebbb76d5106d703e407994ef77cf0faa2c29dcd02"
+    "filename": "RetailInsight-3.0.1-Setup.exe",
+    "url": "https://github.com/grispo89-bit/retail-insight-releases/releases/download/updater-e2e-3.0.1-20260920/RetailInsight-3.0.1-Setup.exe",
+    "size_bytes": 215815677,
+    "sha256": "47490ace348fde5510b81711a1da14b9ee25f8b17417f065423e05d23d4a6d3f"
   }
 }
